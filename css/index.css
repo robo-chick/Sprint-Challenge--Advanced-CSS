@@ -178,6 +178,17 @@ p {
   font-size: 1.5rem;
   margin: 1%;
 }
+.btn {
+  border: 1px solid #22283A;
+  background-color: #22283A;
+  height: 3rem;
+  width: 8rem;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  color: white;
+  text-align: center;
+  padding-top: 2%;
+}
 footer {
   color: #22283B;
   background: #f4f4f4;
@@ -240,5 +251,5 @@ footer {
 .home .walk .walk-img img {
   width: 100%;
   height: auto;
-  border-radius: 10px;
+  border-radius: 20px;
 }
