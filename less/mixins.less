@@ -1,1 +1,16 @@
 // Mixins Here
+.flex-layout() {
+   display: flex;
+   justify-content: center;
+}
+
+.btn-size(@h, @w) {
+    height: @h;
+    width: @w;
+}
+
+.hover() {
+    border: 1px solid white;
+    background-color: white;
+    color: @btn-bg-color;
+}
