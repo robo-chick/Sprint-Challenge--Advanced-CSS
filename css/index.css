@@ -286,6 +286,11 @@ footer {
     padding-top: 5%;
   }
 }
+.home .walk .walk-text .btn:hover {
+  border: 1px solid white;
+  background-color: white;
+  color: #22283A;
+}
 .home .walk .walk-img {
   width: 46%;
   margin-left: 4%;
