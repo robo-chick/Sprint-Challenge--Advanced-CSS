@@ -1,6 +1,6 @@
 // Navigation code here
 .top-nav-header {
-    .flex-layout(flex, center);
+    .flex-layout;
     margin: 1% auto;
 
     h1 {
@@ -9,8 +9,7 @@
 }
 
 .top-nav {
-    display: flex;
-    justify-content: center;
+    .flex-layout;
     
 
     a {
@@ -21,13 +20,3 @@
     }
 }
 
-.btn {
-    border: 1px solid @btn-bg-color;
-    background-color: @btn-bg-color;
-    .btn-size(3rem, 8rem);
-    border-radius: .5rem;
-    font-size: 1.5rem;
-    color: white;
-    text-align: center;
-    padding-top: 2%;
-}
