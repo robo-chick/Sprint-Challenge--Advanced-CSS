@@ -1,0 +1,9 @@
+What is the difference between an adaptive website and a fully responsive website? Adaptive layouts use multiple layouts for different screen sizes, whereas responsive uses one master layout. 
+
+Describe what it means to be mobile first vs desktop first. Mobile first means you design for a mobile device first and expand the layout as the viewport gets bigger. Desktop is the other way around, design for a larger screen first. 
+
+What does font-size: 62.5% in the html tag do for us when using rem units? Lets you convert rem units by the power of 10, rather than 16 (px). 
+
+How would you describe preprocessing to someone new to CSS? Preprocessors are an advanced scripting language used to write CSS that extends the basic functionalities. The advanced code is later compiled into regular CSS that the browser understands. 
+
+What is your favorite concept in preprocessing? What is the concept that gives you the most trouble? being able to create variables in mixins to save time. I really like nesting, as well, because it makes the code more readable and organized, however I did struggle at first with knowing where to place closing braces! 
